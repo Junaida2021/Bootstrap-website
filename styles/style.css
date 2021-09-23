@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #f8f9fa;
+}
+main{
+    max-width: 870px;
+} 
+.top-player{
+    background-color: #FFFFFF;
+}
+.img-tag{
+    width: 40px;
+}
+.player img{
+    width: 56px;
+}
+.color-1{
+    color: #0d6efd;
+}
+.row{
+    max-width: 100%;
+}
+p{
+    color: gray;
+}
+.blog img{
+  max-width: 50%;
+  height: auto;
+}
+.col-md-6{
+    flex: 0 0 auto;
+    width: 50%;
+    float: left;
+}
+.card-area{
+    background-color: #FFFFF;
+}
+.text{
+    color: #dc3545;
+    text-decoration: none;
+}
