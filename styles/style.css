@@ -3,9 +3,15 @@ body{
     padding: 0;
     background-color: #f8f9fa;
 }
+
+.nav-item{
+    color: white;
+}
+
 main{
     max-width: 870px;
 } 
+
 .top-player{
     background-color: #FFFFFF;
 }
